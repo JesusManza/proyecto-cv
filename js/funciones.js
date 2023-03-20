@@ -1,11 +1,8 @@
-function presentacion(){
-    alert("enviar mansaje");
-}
-function saludar(){
+
+function mensaje(){
     alert("te saluda ronald manza, gracias por tu interes");
 
 }
-
-const botonmansaje = document.getElementById("mensaje");
+const botonmensaje = document.getElementById("mensaje");
 
 botonmensaje.addEventListener("click",mensaje);
