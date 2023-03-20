@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo{
+    text-align: right;
+    margin-right: 100px;
+    margin-top: 100px;
+    color: rgb(8, 8, 245);
+
+
+}
+img{
+
+    width: 300px;
+}
+
+.parrafo{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid black;
+    text-align:right;
+}
