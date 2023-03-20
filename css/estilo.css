@@ -9,7 +9,7 @@
     text-align: right;
     margin-right: 100px;
     margin-top: 100px;
-    color: rgb(8, 8, 245);
+    color: rgb(16, 16, 18);
 
 }
 .caja1{
@@ -27,9 +27,13 @@ img{
     border: 1px solid black;
     text-align:center;
     width: 500px;
-    
+    background-color: aqua;
     
 }
+.parrafo2{
+border: 5px solid black;
+}
+
 .info{
 background-color: aqua;
 width: 400px;
