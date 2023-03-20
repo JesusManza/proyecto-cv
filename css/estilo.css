@@ -11,7 +11,10 @@
     margin-top: 100px;
     color: rgb(8, 8, 245);
 
-
+}
+.caja1{
+    display: flex;
+    margin: 20px;
 }
 img{
 
@@ -22,7 +25,14 @@ img{
     margin: 0px;
     padding: 0px;
     border: 1px solid black;
-    text-align:right;
+    text-align:center;
+    width: 500px;
+    
+    
+}
+.info{
+background-color: aqua;
+width: 400px;
 }
 .boton{
     color: white;
